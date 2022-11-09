@@ -4,3 +4,8 @@ total = 0
     #print("Item ",item)
 #    total = total + item
 print("total ",sum(lst))
+
+lst = [10,20,30,40,50]
+str = "lst[0]"
+item = eval(str)
+print("Item ",item)
