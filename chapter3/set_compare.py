@@ -1,0 +1,6 @@
+set1 = set({1,2,3})
+set2 = set({1,3,2})
+set3 = set({1,2,3,4})
+print("set1==set2", set1 ==set2)
+print("set3 > set1", set3 > set1)
+print("set3 >= set1", set3 >= set1)
